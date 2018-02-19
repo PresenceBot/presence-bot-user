@@ -1,0 +1,12 @@
+{
+  "name": "presence-bot-user",
+  "version": "0.0.0",
+  "description": "Discord user bot for PresenceBot application",
+  "main": "index.js",
+  "author": "Alex Babis <acbabis@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "pg": "^7.4.1"
+  }
+}
